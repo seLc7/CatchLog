@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CatchLog</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="key_word">输入关键字</string>
+    <string name="sort">分类搜索</string>
+    <string name="clear">清空</string>
+</resources>
+ 
