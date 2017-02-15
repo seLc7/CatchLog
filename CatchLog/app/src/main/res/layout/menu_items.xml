@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <group android:id="@+id/group1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <item
+            android:id="@+id/menu_item_1"
+            android:title="@string/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <item
+            android:id="@+id/menu_item_2"
+            android:title="@string/key_word"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </group>
+    <!-- group 2 -->
+
+    <group android:id="@+id/group2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <item
+            android:id="@+id/menu_item_3"
+            android:title="@string/sort"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <item
+            android:id="@+id/menu_item_4"
+            android:title="item4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </group>
+
+    <item
+        android:id="@+id/menu_item_stop"
+        android:title="@string/stop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</menu>

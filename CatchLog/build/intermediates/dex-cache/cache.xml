@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Android Workspace\CatchLog\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_f4a5d3e890f19043b8f3e6583bf9398204afe5f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Workspace\CatchLog\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_5b0ebe6c426ed3e5297f361a9429a8a9019c1615\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Workspace\CatchLog\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="25023a232c111e7c81aa4a46492b8b9926de0c2f">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_745418b8ce69897a334c1925db070865d8e68962\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Workspace\CatchLog\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_6647d092691c265e34a2c0e380827fcb05cd44bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Workspace\CatchLog\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02b3b09749d9d614f9f4aea23c1d7c1ee69ad48f">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8e6f9a636b612745098d71bae9f31d48787d00ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\cheng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_2dbca5673280fafe1bc7b61aa40d7180b6790214\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Workspace\CatchLog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_be6b85741bc00e8247faf719e708f7b3b76d1138\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android Workspace\CatchLog\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android Workspace\CatchLog\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_4c7719552bdb6dd866b528280fdf8c902eb3314c\classes.dex" />
+    </item>
+
+</items>

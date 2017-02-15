@@ -1,0 +1,7 @@
+#Wed Feb 15 14:26:53 CST 2017
+base.0=E\:\\Android Workspace\\CatchLog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_745418b8ce69897a334c1925db070865d8e68962
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\Android Workspace\\CatchLog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8e6f9a636b612745098d71bae9f31d48787d00ec\\classes.dex
+base.1=E\:\\Android Workspace\\CatchLog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8e6f9a636b612745098d71bae9f31d48787d00ec
+file.0=E\:\\Android Workspace\\CatchLog\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_745418b8ce69897a334c1925db070865d8e68962\\classes.dex
